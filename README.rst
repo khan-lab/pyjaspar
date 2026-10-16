@@ -3,7 +3,7 @@ pyJASPAR
 
     A Pythonic interface to JASPAR transcription factor motifs
 
-**pyJASPAR** uses *Biopython* and *SQLite3* to provide a serverless interface to `JASPAR database <http://jaspar.genereg.net>`_ to query and access TF motif profiles across various releases of JASPAR.
+**pyJASPAR** uses *Biopython* and *SQLite3* to provide a serverless interface to `JASPAR database <https://jaspar.elixir.no>`_ to query and access TF motif profiles across various releases of JASPAR.
 
 
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4509415.svg
